@@ -21,4 +21,3 @@ class SmartGuesser: public bullpgia::Guesser {
 		void learn(std::string response) override;
 };
 
-//std::string numToGuess(int num, uint length);
